@@ -1,4 +1,5 @@
-### Prazer, Diego <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
+### Prazer, Diego. Bem vindo ao meu GitHub!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
 
  <div>
   <a href="https://github.com/diwalker">
