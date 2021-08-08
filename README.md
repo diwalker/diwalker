@@ -1,4 +1,4 @@
-### Prazer, Diego👋
+### Prazer, Diego <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
 
  <div>
   <a href="https://github.com/diwalker">
