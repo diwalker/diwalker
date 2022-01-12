@@ -1,5 +1,5 @@
-### Prazer, Diego. Bem vindo ao meu GitHub!
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
+<center>### Prazer, Diego. Bem vindo ao meu GitHub!</center
+<center><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> </center>
 
  <div>
   <a href="https://github.com/diwalker">
