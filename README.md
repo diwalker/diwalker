@@ -17,8 +17,8 @@ namespace MyNamespace
         public List<string> Languages { get; } = new List<string> {
             "C#",
             "Python",
+            "PostgreSQL",
             "JavaScript",
-            "Kotlin",
             "React" };
     }
 }
