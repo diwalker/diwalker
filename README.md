@@ -7,21 +7,21 @@ Foco em Desenvolvimento Fullstack<br>
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
-```csharp
-namespace MyNamespace
-{
-    public class Name
-    {
-        public string Name { get; } = "Diego Silva";
-        public string Acknowledgements { get; } = "Software Developer";
-        public List<string> Languages { get; } = new List<string> {
-            "C#",
-            "Python",
-            "PostgreSQL",
-            "JavaScript",
-            "React" };
-    }
-}
+```javascript
+const data = {
+    name: "Diego Silva",
+    acknowledgements: "Software Developer",
+    languages: [
+        "Javascript",
+        "Python",
+        "PostgreSQL",
+        "React"
+    ]
+};
+
+app.listen(port, () => {
+    console.log(`Perfil rodando na porta ${port}`);
+});
 
 ```
 
@@ -29,10 +29,8 @@ namespace MyNamespace
 
 ## Linguagens e ferramentas
 
-<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
@@ -46,8 +44,8 @@ namespace MyNamespace
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwalker&layout=compact&langs_count=7&theme=radical"/>
 </div>
    
-[website]: https://diegodev.xyz
-[instagram]: https://www.instagram.com/di.wkr/
+[website]: https://diegopereira.me/
+[instagram]: https://www.instagram.com/someentediego/
 [linkedin]: https://www.linkedin.com/in/diegospereira/
 
 <br>
