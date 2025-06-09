@@ -44,8 +44,8 @@ app.listen(port, () => {
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwalker&layout=compact&langs_count=7&theme=radical"/>
 </div>
    
-[website]: https://diegopereira.me/
-[instagram]: https://www.instagram.com/someentediego/
+[website]: https://diegosilva.xyz
+[instagram]: https://www.instagram.com/somentediego/
 [linkedin]: https://www.linkedin.com/in/diegospereira/
 
 <br>
