@@ -9,13 +9,20 @@ Busco contribuir na criação de soluções modernas, escaláveis e eficientes, 
 <img align="right" width="360" alt="computer illustration" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 ```js
-const dev = {
+type Dev = {
+  name: string;
+  role: string;
+  stack: readonly string[];
+};
+
+const dev: Dev = {
   name: "Diego Silva",
   role: "Software Developer",
-  stack: ["JavaScript/TypeScript", "Python", "PostgreSQL", "React"],
+  stack: ["JavaScript/TypeScript", "Python", "PostgreSQL", "React"] as const,
 };
 
 console.log(`Perfil do ${dev.name} rodando ✅`);
+
 ```
 
 ---
