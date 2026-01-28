@@ -35,8 +35,11 @@ console.log(`Perfil do ${dev.name} rodando ✅`);
 
 ## Status
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diwalker&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwalker&layout=compact&theme=gruvbox)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diwalker&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwalker&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
+</p>
+
 
 
 
