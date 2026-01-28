@@ -35,11 +35,12 @@ console.log(`Perfil do ${dev.name} rodando ✅`);
 
 ## Status
 
-<a href="https://github.com/diwalker"><img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=diwalker&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=3600&v=20260128" /></a> <a href="https://github.com/diwalker"><img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwalker&layout=compact&langs_count=8&theme=radical&cache_seconds=3600&v=20260128" /></a>
+(https://github-readme-stats.vercel.app/api?username=diwalker&show_icons=true&theme=gruvbox)
+
 
 ---
 
-## Redes sociais
+## Contatos
 
 🏡 Website: https://diegosilva.xyz  
 📷 Instagram: https://www.instagram.com/somentediego/  
