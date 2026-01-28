@@ -6,7 +6,7 @@ Busco contribuir na criação de soluções modernas, escaláveis e eficientes, 
 
 ## Sobre mim
 
-<img align="right" width="320" alt="computer illustration" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<img align="right" width="300" alt="computer illustration" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 ```js
 const dev = {
