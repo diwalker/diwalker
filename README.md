@@ -16,7 +16,7 @@ type Dev = {
 };
 
 const dev: Dev = {
-  name: "Diego Silva",
+  name: "Diego Pereira",
   role: "Software Developer",
   stack: ["JavaScript/TypeScript", "Python", "PostgreSQL", "React"] as const,
 };
