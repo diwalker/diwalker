@@ -31,10 +31,11 @@ console.log(`Perfil do ${dev.name} rodando ✅`);
 ---
 
 ## Contatos
-[![Website](https://img.shields.io/badge/Website-diegosilva.xyz-3c3836?style=for-the-badge&logo=google-chrome&logoColor=fabd2f)](https://diegosilva.xyz)
-[![Instagram](https://img.shields.io/badge/Instagram-@somentediego-3c3836?style=for-the-badge&logo=instagram&logoColor=fe8019)](https://www.instagram.com/somentediego/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-diegospereira-3c3836?style=for-the-badge&logo=linkedin&logoColor=83a598)](https://www.linkedin.com/in/diegospereira/)
-[![Email](https://img.shields.io/badge/Email-dwalkerserver%40gmail.com-3c3836?style=for-the-badge&logo=gmail&logoColor=fb4934)](mailto:dwalkerserver@gmail.com)
+[![Website](https://img.shields.io/badge/Website-diegosilva.xyz-3c3836?style=for-the-badge&logo=google-chrome&logoColor=fabd2f)](https://diegosilva.xyz)<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-@somentediego-3c3836?style=for-the-badge&logo=instagram&logoColor=fe8019)](https://www.instagram.com/somentediego/)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diegospereira-3c3836?style=for-the-badge&logo=linkedin&logoColor=83a598)](https://www.linkedin.com/in/diegospereira/)<br/>
+[![Email](https://img.shields.io/badge/Email-dwalkerserver%40gmail.com-3c3836?style=for-the-badge&logo=gmail&logoColor=fb4934)](mailto:dwalkerserver@gmail.com)<br/>
+
 
 
 
