@@ -22,14 +22,6 @@ console.log(`Perfil do ${dev.name} rodando ✅`);
 
 ---
 
-## Status
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diwalker&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwalker&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
-</p>
-
----
-
 ## Contatos
 [![Website](https://img.shields.io/badge/Website-diegosilva.xyz-3c3836?style=for-the-badge&logo=google-chrome&logoColor=fabd2f)](https://diegosilva.xyz)<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-@somentediego-3c3836?style=for-the-badge&logo=instagram&logoColor=fe8019)](https://www.instagram.com/somentediego/)<br/>
